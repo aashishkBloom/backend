@@ -1,6 +1,6 @@
 module.exports = {
   aws: {
-    accessKeyId: "",
+    accessKeyId: " ",
     secretAccessKey: "",
     bucketName: "",
     region: "",
